@@ -7,5 +7,3 @@ def my_collect(array)
  end
 end
   
-my_collect(array) do |i| i.upcase
-end
