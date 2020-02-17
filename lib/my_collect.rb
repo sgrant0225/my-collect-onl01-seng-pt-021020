@@ -3,6 +3,7 @@ def my_collect(array)
  while inside_array < array.length do
    inside_array.upcase
  end
+ array
 end
   
 
